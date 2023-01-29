@@ -23,7 +23,7 @@ Firebase, SQLite, recyclerView, vievBinding, fragments, Picasso, ZXing library, 
 ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Insp%20product%20data%20not%20found.jpg)
 ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Insp%20history.png)
 
-** MusictifyApp **
+**MusictifyApp**
 
  This project is a basic implementation of the app which is called Spotify.
  The app welcomes the users with the login screen. Users can easily sign up by using their email and password combinations.
@@ -41,7 +41,19 @@ Firebase, SQLite, recyclerView, vievBinding, fragments, Picasso, ZXing library, 
  This project uses:
  MVVM, Firebase, SQLite, recyclerView, viewBinding, fragments, navigation, coroutines, Picasso, glide, dagger, hilt and exoplayer.
 
+
  ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Musictify%20sign%20in.png)
  ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Musictify%20homepage.png)
  ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Musictify%20create%20playlist.png)
  ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Musictify%20song%20playing%20.png)
+
+
+**Parkinson**
+
+This is a mobile app that decides whether you have Parkinson's disease. 
+
+This project uses:
+Decision trees which created by using rapid miner and UCI datasets.
+
+![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Parkinson%20main%20activity.png)
+![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Parkinson%20desicion%20tree.png)
