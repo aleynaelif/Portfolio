@@ -10,7 +10,7 @@ by scanning the barcodes on the mobile application. Project aims to protecting c
 This mobile application is designed to improve the shopping experience of people who cannot or do not want to consume every nutrient for certain reasons.
 
 This project uses:
-Firebase, SQLite, recyclerView, vievBinding, fragments, Picasso, ZXing library, OKHTTP3, butterknife, Nutritionix Api, Seo Api, Barcode Api, JSON
+Firebase, SQLite, recyclerView, vievBinding, fragments, Picasso, ZXing library, OKHTTP3, butterknife, Nutritionix Api, Seo Api, Barcode Api, JSON, Web scraping, Flask, BeautifulSoup
 
 
 ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Insp%20main.png)
@@ -56,4 +56,15 @@ This project uses:
 Decision trees which created by using rapid miner and UCI datasets.
 
 ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Parkinson%20main%20activity.png)
+
+Desicion Tree
 ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Parkinson%20desicion%20tree.png)
+
+**Dora**
+
+Work on this project is still ongoing. Image-based search engines are software that make it possible to search through images. These types of search engines help users find similar images by allowing them to search through images. Visual-based search engines are widely used, especially in areas where products are sold through images such as e-commerce platforms. In addition, these search engines can be used in a wide variety of industries. In this way, it helps users to learn about various information and trends. The working principles of image-based search engines are based on disciplines such as image processing and computer vision and information mining, and with the advancement of these disciplines,  can be further developed. This project will be realized by designing a user-friendly interface thanks to the mobile application, and it will be a platform that users can easily access from their mobile phones.
+
+This project uses:
+
+Web scraping, Pytorch, Flask, Firebase, Kotlin
+
