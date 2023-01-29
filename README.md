@@ -68,3 +68,5 @@ This project uses:
 
 Web scraping, Pytorch, Flask, Firebase, Kotlin
 
+![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Dora%20sign%20in.png)
+![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Dora%20scan.png)
