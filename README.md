@@ -1,10 +1,6 @@
 # Portfolio
  
-<<<<<<< HEAD
 **Insp - The Food Inspector**
-=======
-**##Insp - The Food Inspector**
->>>>>>> 61e0b2bc4838f0007b4dadb2871e66dfd3454f15
 
 Consumers may not be conscious when shopping for food in their daily lives. In particular, they may be influenced by the advertisements of packaged and ready-to-eat foods and may prefer these foods. 
 In addition, people's search for quick and practical solutions due to time constraints may cause them to shop unconsciously. While purchasing packaged foods, people who shop consciously can lose a 
@@ -26,9 +22,6 @@ Firebase, SQLite, recyclerView, vievBinding, fragments, Picasso, ZXing library, 
 ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Insp%20product%20data.png)
 ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Insp%20product%20data%20not%20found.jpg)
 ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Insp%20history.png)
-<<<<<<< HEAD
-
-
 
 ** MusictifyApp **
 
@@ -48,9 +41,7 @@ Firebase, SQLite, recyclerView, vievBinding, fragments, Picasso, ZXing library, 
  This project uses:
  MVVM, Firebase, SQLite, recyclerView, viewBinding, fragments, navigation, coroutines, Picasso, glide, dagger, hilt and exoplayer.
 
- ![alt text](http://url/to/img.png)
- ![alt text](http://url/to/img.png)
- ![alt text](http://url/to/img.png)
- ![alt text](http://url/to/img.png)
-=======
->>>>>>> 61e0b2bc4838f0007b4dadb2871e66dfd3454f15
+ ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Musictify%20sign%20in.png)
+ ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Musictify%20homepage.png)
+ ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Musictify%20create%20playlist.png)
+ ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Musictify%20song%20playing%20.png)
