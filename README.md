@@ -10,7 +10,6 @@ Firebase, Compose, Navigation
 
 ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/arc_auth.jpg)
 ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/arc_password.jpg)
-![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/arc_profile.png)
 ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/arc_main.jpg)
 ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/arc_one.jpg)
 ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/arc_three.jpg)
