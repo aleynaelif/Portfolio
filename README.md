@@ -1,5 +1,27 @@
 # Portfolio
- 
+
+**ARCANA**
+
+-Work on this project is still ongoing!-
+Arcana is an intuitive and user-friendly Tarot app that allows users to explore the mystical world of Tarot cards for guidance, self-discovery, and reflection. The app provides a range of features to enhance the user experience and make the exploration of Tarot accessible to both beginners and experienced enthusiasts. Users can choose from various spreads, such as the Celtic Cross, Horseshoe Spread, and more. They have the flexibility to select the number of cards in the spread, ranging from one to seven. Users can tailor their readings to specific themes, including general insights, career guidance, and love-related queries. This customization allows users to focus on the aspects of life that matter most to them. The app includes a detailed guide to Tarot card meanings, providing users with a deeper understanding of the symbolism behind each card. Users can review and analyze their past Tarot readings, creating a personalized archive of insights gained through the cards.Arcana aims to provide a tool for users to connect with the ancient wisdom of Tarot in a modern and accessible way. 
+
+This project uses:
+Firebase, Compose, Navigation 
+
+![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/arc_auth.jpg)
+![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/arc_password.jpg)
+![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/arc_profile.png)
+![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/arc_main.jpg)
+![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/arc_one.jpg)
+![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/arc_three.jpg)
+![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/arc_five.jpg)
+![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/arc_seven.jpg)
+![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/arc_horse.jpg)
+![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/arc_celtic.jpg)
+![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/arc_theme.jpg)
+
+
+
 **Insp - The Food Inspector**
 
 Consumers may not be conscious when shopping for food in their daily lives. In particular, they may be influenced by the advertisements of packaged and ready-to-eat foods and may prefer these foods. 
@@ -59,14 +81,3 @@ Decision trees which created by using rapid miner and UCI datasets.
 
 Desicion Tree
 ![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Parkinson%20desicion%20tree.png)
-
-**Dora**
-
-Work on this project is still ongoing. Image-based search engines are software that make it possible to search through images. These types of search engines help users find similar images by allowing them to search through images. Visual-based search engines are widely used, especially in areas where products are sold through images such as e-commerce platforms. In addition, these search engines can be used in a wide variety of industries. In this way, it helps users to learn about various information and trends. The working principles of image-based search engines are based on disciplines such as image processing and computer vision and information mining, and with the advancement of these disciplines,  can be further developed. This project will be realized by designing a user-friendly interface thanks to the mobile application, and it will be a platform that users can easily access from their mobile phones.
-
-This project uses:
-
-Web scraping, Pytorch, Flask, Firebase, Kotlin
-
-![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Dora%20sign%20in.png)
-![alt text](https://github.com/aleynaelif/Portfolio/blob/main/Photos/Dora%20scan.png)
